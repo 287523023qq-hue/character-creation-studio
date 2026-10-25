@@ -7,6 +7,42 @@
 [![AI Agent Compatible](https://img.shields.io/badge/AI%20Agent-Antigravity%20%7C%20Claude-purple.svg)](SKILL.md)
 [![Workflow](https://img.shields.io/badge/pipeline-8--Step%20Production-green.svg)](#-八步工业级角色生产管线)
 [![Style Library](https://img.shields.io/badge/styles-87%20Tested%20Styles-orange.svg)](references/style-library.md)
+[![Stars](https://img.shields.io/github/stars/287523023qq-hue/character-creation-studio?style=social)](https://github.com/287523023qq-hue/character-creation-studio)
+
+<div align="center">
+  <a href="https://github.com/287523023qq-hue/character-creation-studio">
+    <img src="assets/demo_cinematic_fast.gif" alt="Cinematic Output Demo" width="100%" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.3);" />
+  </a>
+  <p align="center">
+    <strong>🎬 由 Character Creation Studio 角色一致性锁定管线生成的 2.39:1 院线级镜头演示</strong><br>
+    <em>从一句话人设到骨骼锁定、丁达尔光影呼吸与环境雨丝视差，全流程杜绝换脸与特征漂移</em>
+  </p>
+</div>
+
+---
+
+### 🖼️ 真实工业级交付样例 (Production Asset Showcase)
+
+| 案例一：多面首异质生物 (变异算子 + 特征锁死) | 案例二：蛙人旅行家 (生活磨损痕迹 + 4套交付板) |
+| :---: | :---: |
+| <img src="assets/showcase-five-head-shadow.jpg" alt="多面首异质生物" width="460" style="border-radius: 8px;" /> | <img src="assets/showcase-frog-traveler.jpg" alt="蛙人旅行家" width="460" style="border-radius: 8px;" /> |
+| **8 种变异算子驱动，彻底告别千人一面** | **单变量白名单派生，三视图转面 100% 稳定** |
+
+---
+
+## ⚡ 1 分钟极速上手 (Quick Start)
+
+只需将本仓库克隆到您的 AI Agent（Antigravity / Claude / Cursor）技能目录，即可实现人话唤醒：
+
+```bash
+# 全局安装至 Antigravity / Gemini 技能目录
+cp -R character-creation-studio ~/.gemini/config/skills/
+```
+
+**在对话框直接说人话：**
+> 💬 *“帮我设计一个住在茶山上的采茶机器人，走复古日式水彩风格，直接给我母版提示词和锁定记录卡。”*  
+> 💬 *“（附母版图 + 锁定卡）请基于这个角色帮我派生一套标准三视图，要求严格不换脸。”*  
+> 💬 *“生成图脸漂了，帮我用最小提示词定位法排查是哪个形容词污染了特征。”*
 
 ---
 
