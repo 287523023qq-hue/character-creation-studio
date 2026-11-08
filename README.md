@@ -7,7 +7,12 @@
 [![AI Agent Compatible](https://img.shields.io/badge/AI%20Agent-Antigravity%20%7C%20Claude-purple.svg)](SKILL.md)
 [![Workflow](https://img.shields.io/badge/pipeline-8--Step%20Production-green.svg)](#-八步工业级角色生产管线)
 [![Style Library](https://img.shields.io/badge/styles-87%20Tested%20Styles-orange.svg)](references/style-library.md)
+[![Agensi Store](https://img.shields.io/badge/Agensi%20Store-$6.99%20Verified-blue.svg)](https://www.agensi.io/skills/character-creation-studio)
 [![Stars](https://img.shields.io/github/stars/287523023qq-hue/character-creation-studio?style=social)](https://github.com/287523023qq-hue/character-creation-studio)
+
+> ⭐️ **喜欢本角色创作工坊？请在右上角点亮 Star ⭐️ 支持我们持续迭代！**  
+> 🚀 **Agensi 官方已上架验证版**：[立即在 Agensi 购买 (\$6.99)](https://www.agensi.io/skills/character-creation-studio)  
+> 🌐 **全套技能演示主页**：[https://287523023qq-hue.github.io/ai-cinematic-skills/](https://287523023qq-hue.github.io/ai-cinematic-skills/)
 
 <div align="center">
   <a href="https://github.com/287523023qq-hue/character-creation-studio">
